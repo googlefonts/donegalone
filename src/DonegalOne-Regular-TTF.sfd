@@ -16235,7 +16235,7 @@ EndChar
 
 StartChar: nonbreakingspace
 Encoding: 160 160 155
-Width: 675
+Width: 684
 Flags: W
 LayerCount: 2
 EndChar
